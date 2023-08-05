@@ -1,0 +1,56 @@
+.take {
+    background: rgba(251, 241, 231, 1);
+    height: 518px;
+}
+
+.takeaway {
+    margin-top: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.p_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    color: rgba(220, 120, 11, 1);
+}
+
+.h_text {
+    font-family: 'Philosopher';
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;   
+    width: 535px; 
+}
+
+.p1_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;    
+    width: 555px;
+    margin-bottom: 45px;
+}
+
+.gg_img {
+    margin-left: 40px;
+}
+
+.tt_img {
+    margin-top: -60px;
+}
+
+.taken_div {
+    margin-top: -40px;
+}

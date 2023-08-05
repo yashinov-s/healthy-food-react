@@ -1,0 +1,57 @@
+.introo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro {
+    margin-top: 100px;
+}
+
+.texth {
+    font-family: 'Philosopher';
+    font-size: 49px;
+    font-weight: 700;
+    line-height: 58px;    
+    width: 555px;  
+    margin-bottom: 25px;  
+    margin: 0;
+}
+
+.textp {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    width: 555px;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+._link {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    color: white;    
+    background: rgba(220, 120, 11, 1);
+    padding: 13px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+._link1 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    color: rgba(220, 120, 11, 1);
+    border: 1.5px solid rgba(220, 120, 11, 1);
+    padding: 13px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.int_img {
+    margin-top: -10px;
+}

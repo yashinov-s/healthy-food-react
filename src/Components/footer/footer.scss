@@ -1,0 +1,56 @@
+.footer {
+    background: rgba(37, 37, 37, 1);
+}
+
+.ftr-div {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+
+.ftr-ptext {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 10px;
+}
+
+.ftr-list {
+    list-style-type: none;
+    margin-left: 38px;
+}
+
+.ftr-link {
+    margin-bottom: 20px;
+}
+
+.ftr-link1 {
+    font-family: 'Philosopher';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+}
+
+.ftr-linkk {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.596);
+    text-decoration: none;
+}
+
+.ftr-item {
+    margin-bottom: 15px;
+}

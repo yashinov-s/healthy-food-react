@@ -1,0 +1,62 @@
+.aboutsus {
+    margin-top: 180px;
+}
+
+.abouts {
+    display: flex;
+    align-items: center;
+}
+
+.abt_img {
+    border-radius: 10px;
+}
+
+.abt_h1 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    color: rgba(220, 120, 11, 1);        
+}
+
+.abt_h2 {
+    font-family: 'Philosopher';
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(21, 12, 1, 1);
+    width: 471px;
+    margin-bottom: 30px;
+}
+
+.abt_h3 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(21, 12, 1, 1);
+    width: 476px;    
+    margin-bottom: 33px;
+}   
+
+.abt_link {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    color: white;   
+    background: rgba(220, 120, 11, 1);
+    padding: 11px 17px;
+    text-decoration: none;
+    margin-right: 390px;
+    border-radius: 5px;
+}
+
+.abt_div {
+    margin-left: 90px;
+}

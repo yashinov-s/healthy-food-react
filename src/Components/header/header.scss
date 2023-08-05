@@ -1,0 +1,46 @@
+.headerr {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.list {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-right: 606px;
+}
+
+.item {
+    margin-left: 40px;
+}
+
+.link1 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: rgba(220, 120, 11, 1); 
+    text-decoration: none;
+}
+
+.link {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: black; 
+    text-decoration: none;
+}
+
+.link3 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: white; 
+    text-decoration: none;
+    background: rgba(220, 120, 11, 1);
+    padding: 8px 15px;
+    border-radius: 5px;
+}
